@@ -1,2 +1,2 @@
 [lfs]
-	url = git@soft:test
+	url = http://localhost:23232/test.git/info/lfs
